@@ -12,14 +12,8 @@
 # 💫 About Me:
 🏢 I'm a Computer Science Undegrad @AVV | Batch of 2025<br><br>👀 I’m interested in AI ,Machine Learning and Web Development.<br><br>🌍 I'm mostly active within the Python, ML and AI Community.<br><br>💬 Ask me about: Web Development , AI/ML , Technology, Fantasy Football(FPL)<br><br>📫 How to reach me chhetryaman3@gmail.com<br><br>⚡ Fun fact: I am a fan of Sherlock Holmes🕵️
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/amankshetri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/aman_chhetry/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman-instagram" height="30" width="40" /></a>
-<a href="https://youtube.com/@amankshetri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aman-youtube" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/amanchhetri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aman-hackerank" height="30" width="40" /></a>
-<a href="https://discord.gg/amanchhetry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aman-discord" height="30" width="40" /></a>
-</p>
+## 💬 Connect With Me:
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aman-chhetri)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amankshetri/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aman_chhetry/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/iamamanchhetri) [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/chhetryaman) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/amanchhetri)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@amankshetri)
 
 ## 🧠 Tech Stack:
 
