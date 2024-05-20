@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Aman Chhetri</h1>
-<h3 align="center">A passionate guy who wants to explore on AI and ML field.</h3><br>
+<h3 align="center">A passionate and enthusiastic guy who is constantly exploring the fields of Web Development and Machine Learning.</h3><br>
 
 [![@aman_chhetri's Holopin Dashboard](https://holopin.me/aman_chhetri)](https://holopin.io/@aman_chhetri)
 
@@ -83,9 +83,9 @@
           <a href="https://www.mongodb.com/"><img
                     src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"
                     alt="MongoDB" /></a>
-          <a href="https://firebase.google.com/"><img
+<!--           <a href="https://firebase.google.com/"><img
                     src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"
-                    alt="Firebase" /></a>
+                    alt="Firebase" /></a> -->
         </td>
     </tr>
     <tr>
