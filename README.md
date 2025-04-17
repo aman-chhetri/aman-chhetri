@@ -5,9 +5,11 @@
 `Computer Science` @ AVV'25 🎓 | `Machine Learning` 🤖 | `Full Stack Developer` 💻 | `CTF Player` 🎮
 
 
-* A passionate and enthusiastic guy who is constantly exploring the fields of Machine Learning and Web Development. I am mostly active within the AI/ML, Python, & Web Dev communities.
+* A passionate and enthusiastic guy who is constantly working on the field of Machine Learning, NLP and Web Development. I am mostly active within the AI/ML, Python, & Web Dev communities.
 
-* I also occasionally write blogs on AI, ML, and other tech stuffs. You can check them out here: [click here!](https://amanchhetry.bearblog.dev/)
+* I also occasionally write blogs on AI, ML, and other tech stuffs. You can check them out here: [blogs!](https://amanchhetry.bearblog.dev/)
+
+* My website: [portfolio!](https://amankshetri.com.np/)
 
 <!-- * Former Mentor of Cognizance Amrita (tech club): Guided 100+ students at Cognizance, hosted CTF competitions, and organized numerous events while monitoring the Cyber Security Domain for a year. -->
 
@@ -17,13 +19,11 @@
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=iamamanchhetri&label=Profile%20views&color=0e75b6&style=flat" alt="iamamanchhetri" /> </p> -->
 
 ---
-### 💫 About Me:
+### ⏳ Status:
 I’m currently working on ~
 * 🌱 [ml papers](https://github.com/aman-chhetri/ml-papers) - trying to implement deep learning concepts in code!
 * 🌱 deep Learning and nlp<br>
 * 🌱 llm's
-
-my website: [click here!](https://amankshetri.com.np/)
 
 
 ---
@@ -71,7 +71,7 @@ If you'd like to chat💬or grab some coffee☕ with me, shoot me a DM on any of
         </td>
     </tr>
     <tr>
-        <td>📚 Frameworks, Platforms &amp; Libraries</td>
+        <td>📚 Frameworks & Libraries</td>
         <td>
           <a href="https://react.dev/"><img
                     src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
@@ -97,7 +97,7 @@ If you'd like to chat💬or grab some coffee☕ with me, shoot me a DM on any of
         </td>
     </tr>
     <tr>
-        <td>🗄️Databases</td>
+        <td>☁️ Databases</td>
         <td>
             <a href="https://www.mysql.com/"><img
                     src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"
@@ -125,7 +125,7 @@ If you'd like to chat💬or grab some coffee☕ with me, shoot me a DM on any of
         </td>
     </tr>
     <tr>
-        <td>🖥️ ML/DL</td>
+        <td>🤖 ML/DL</td>
         <td>
             <a href="https://pandas.pydata.org/"><img
                     src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white"
@@ -190,7 +190,7 @@ If you'd like to chat💬or grab some coffee☕ with me, shoot me a DM on any of
         </td>
     </tr> -->
   <tr>
-        <td>🥅 Others</td>
+        <td>⚡ Others</td>
         <td>
           <a href="https://git-scm.com/"><img
                     src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"
@@ -212,3 +212,6 @@ If you'd like to chat💬or grab some coffee☕ with me, shoot me a DM on any of
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aman-chhetri&icon=0&color=0)](https://visitcount.itsvg.in) -->
+
+---
+_Readme (last updated): April 17, 2025_
