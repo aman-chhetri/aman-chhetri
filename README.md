@@ -1,8 +1,8 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+</div> -->
 
-<h1 align="center">Hi 👋, I'm Aman Chhetri</h1>
+<h1 align="center">Hi 👋, I'm Aman!</h1>
 <h3 align="center">A passionate and enthusiastic guy who is constantly exploring the fields of Web Development and Machine Learning.</h3><br>
 
 [![@aman_chhetri's Holopin Dashboard](https://holopin.me/aman_chhetri)](https://holopin.io/@aman_chhetri)
@@ -10,7 +10,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iamamanchhetri&label=Profile%20views&color=0e75b6&style=flat" alt="iamamanchhetri" /> </p>
 
 # 💫 About Me:
-🏢 I'm a Computer Science Undergrad @AVV | Batch of 2025<br><br>👀 I’m interested in AI ,Machine Learning and Web Development.<br><br>🌍 I'm mostly active within the Python, ML and AI Community.<br><br>💬 Ask me about: Web Development , AI/ML , Technology, Fantasy Football(FPL)<br><br>📫 How to reach me: chhetryaman3@gmail.com<br><br>⚡ Fun fact: I am a fan of Sherlock-221B🕵️
+🏢 I'm a Computer Science Undergrad @AVV | Batch of 2025<br><br>
+👀 I’m interested in AI ,Machine Learning and Web Development.<br><br>
+🌍 I'm mostly active within the Python, ML and AI Community.<br><br>
+💬 Ask me about: Web Development , AI/ML , Technology, Fantasy Football(FPL)<br><br>
+📫 How to reach me: chhetryaman3@gmail.com<br><br>
+<!-- ⚡ Fun fact: I am a fan of Sherlock-221B🕵️ -->
 
 ## 💬 Connect With Me:
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aman-chhetri)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amankshetri/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aman_chhetry/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/iamamanchhetri) [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/chhetryaman) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/amanchhetri)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@amankshetri)
