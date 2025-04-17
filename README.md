@@ -3,7 +3,7 @@
 </div> -->
 
 <h1 align="center">Hi 👋, I'm Aman!</h1>
-<h3 align="center">Computer Science Graduate @AVV'25 🎓 | Machine Learning 🤖 | Full Stack Dev 💻 | CTF Player 🎮</h3>
+<h3 align="center">Computer Science @AVV'25 🎓 | Machine Learning 🤖 | Full Stack Dev 💻 | CTF Player 🎮</h3>
 
 <!-- _A passionate and enthusiastic guy who is constantly exploring the fields of Web Development and Machine Learning._ -->
 
@@ -11,11 +11,11 @@
 
 * A passionate and enthusiastic guy who is constantly exploring the fields of Machine Learning and Web Development. I am mostly active within the AI/ML, Python, & Web Dev communities.
 
-* I also occasionally write blogs on AI, ML, and other tech stuff. You can check them out here: <a href="https://amanchhetry.bearblog.dev/" target="_blank">click here!</a>
+* I also occasionally write blogs on AI, ML, and other tech stuff. You can check them out here: [click here!](https://amanchhetry.bearblog.dev/)
 
 * Former Mentor of Cognizance Amrita (tech club): Guided 100+ students at Cognizance, hosted CTF competitions, and organized numerous events while monitoring the Cyber Security Domain for a year.
 
-
+---
 [![@aman_chhetri's Holopin Dashboard](https://holopin.me/aman_chhetri)](https://holopin.io/@aman_chhetri)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iamamanchhetri&label=Profile%20views&color=0e75b6&style=flat" alt="iamamanchhetri" /> </p>
@@ -220,8 +220,8 @@ my website: [click here!](https://amankshetri.com.np/)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aman-chhetri&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-chhetri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quotes
+<!-- ### ✍️ Random Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aman-chhetri&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=aman-chhetri&icon=0&color=0)](https://visitcount.itsvg.in) -->
