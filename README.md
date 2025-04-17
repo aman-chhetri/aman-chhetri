@@ -20,7 +20,7 @@
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=iamamanchhetri&label=Profile%20views&color=0e75b6&style=flat" alt="iamamanchhetri" /> </p> -->
 
-## 💫 About Me:
+### 💫 About Me:
 I’m currently working on ~
 * 🌱 Deep Learning and NLP<br>
 * 🌱 LLM's Models
@@ -34,14 +34,14 @@ my website: [click here!](https://amankshetri.com.np/)
 <!-- 📫 How to reach me: chhetryaman3@gmail.com<br> -->
 <!-- ⚡ Fun fact: I am a fan of Sherlock-221B🕵️ -->
 
-## 🌐 Connect With Me:
+### 🌐 Socials:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chhetryaman3@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amankshetri/) 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://amankshetri.com.np/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/iamamanchhetri) 
 
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 
 <table>
     <tr>
@@ -215,7 +215,7 @@ my website: [click here!](https://amankshetri.com.np/)
     </tr>
 </table>
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aman-chhetri&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aman-chhetri&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-chhetri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
