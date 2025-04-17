@@ -11,7 +11,7 @@
 
 * A passionate and enthusiastic guy who is constantly exploring the fields of Machine Learning and Web Development. I am mostly active within the AI/ML, Python, & Web Dev communities.
 
-* I also occasionally write blogs on AI, ML, and other tech stuff. You can check them out here: [click here!](tab:https://amanchhetry.bearblog.dev/)
+* I also occasionally write blogs on AI, ML, and other tech stuff. You can check them out here: <a href="https://amanchhetry.bearblog.dev/" target="_blank">click here!</a>
 
 * Former Mentor of Cognizance Amrita (tech club): Guided 100+ students at Cognizance, hosted CTF competitions, and organized numerous events while monitoring the Cyber Security Domain for a year.
 
