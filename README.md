@@ -3,24 +3,45 @@
 </div> -->
 
 <h1 align="center">Hi 👋, I'm Aman!</h1>
-<h3 align="center">A passionate and enthusiastic guy who is constantly exploring the fields of Web Development and Machine Learning.</h3><br>
+<h3 align="center">Computer Science Graduate @AVV'25 🎓 | Machine Learning 🤖 | Full Stack Dev 💻 | CTF Player 🎮</h3>
+
+<!-- _A passionate and enthusiastic guy who is constantly exploring the fields of Web Development and Machine Learning._ -->
+
+<!-- A Computer Science Undergrad 🎓 from Amrita School of Engineering, Chennai. -->
+
+* A passionate and enthusiastic guy who is constantly exploring the fields of Machine Learning and Web Development. I am mostly active within the AI/ML, Python, & Web Dev communities.
+
+* I also occasionally write blogs on AI, ML, and other tech stuff. You can check them out here: [click here!](https://amanchhetry.bearblog.dev/)
+
+* Former Mentor of Cognizance Amrita (tech club): Guided 100+ students at Cognizance, hosted CTF competitions, and organized numerous events while monitoring the Cyber Security Domain for a year.
+
 
 [![@aman_chhetri's Holopin Dashboard](https://holopin.me/aman_chhetri)](https://holopin.io/@aman_chhetri)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iamamanchhetri&label=Profile%20views&color=0e75b6&style=flat" alt="iamamanchhetri" /> </p>
 
-# 💫 About Me:
-🏢 I'm a Computer Science Undergrad @AVV | Batch of 2025<br><br>
-👀 I’m interested in AI ,Machine Learning and Web Development.<br><br>
-🌍 I'm mostly active within the Python, ML and AI Community.<br><br>
-💬 Ask me about: Web Development , AI/ML , Technology, Fantasy Football(FPL)<br><br>
-📫 How to reach me: chhetryaman3@gmail.com<br><br>
+## 💫 About Me:
+I’m currently working on ~
+* 🌱 Deep Learning and NLP<br>
+* 🌱 LLM's Models
+
+my website: [click here!](https://amankshetri.com.np/)
+
+<!-- 🏢 I'm a Computer Science Undergrad @AVV | Batch of 2025<br> -->
+<!-- 👀 I’m interested in AI ,Machine Learning and Web Development.<br> -->
+<!-- 🌍 I'm mostly active within the Python, ML and AI Community.<br> -->
+<!-- 💬 Ask me about: Web Development , AI/ML , Technology, Fantasy Football(FPL)<br> -->
+<!-- 📫 How to reach me: chhetryaman3@gmail.com<br> -->
 <!-- ⚡ Fun fact: I am a fan of Sherlock-221B🕵️ -->
 
-## 💬 Connect With Me:
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aman-chhetri)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amankshetri/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aman_chhetry/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/iamamanchhetri) [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/chhetryaman) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/amanchhetri)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@amankshetri)
+## 🌐 Connect With Me:
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chhetryaman3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amankshetri/) 
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://amankshetri.com.np/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/iamamanchhetri) 
 
-## 🧠 Tech Stack:
+
+## 💻 Tech Stack:
 
 <table>
     <tr>
@@ -194,12 +215,12 @@
     </tr>
 </table>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aman-chhetri&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aman-chhetri&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-chhetri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
