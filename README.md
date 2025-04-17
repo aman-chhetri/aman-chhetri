@@ -3,7 +3,9 @@
 </div> -->
 
 <h1 align="center">Hi 👋, I'm Aman!</h1>
-<h3 align="center">Computer Science @AVV'25 🎓 | Machine Learning 🤖 | Full Stack Dev 💻 | CTF Player 🎮</h3>
+<!-- <h3 align="center">Computer Science @AVV'25 🎓 | Machine Learning 🤖 | Full Stack Dev 💻 | CTF Player 🎮</h3> -->
+
+`Computer Science` @ AVV'25 🎓 | `Machine Learning` 🤖 | `Full Stack Dev` 💻 | `CTF Player` 🎮
 
 <!-- _A passionate and enthusiastic guy who is constantly exploring the fields of Web Development and Machine Learning._ -->
 
