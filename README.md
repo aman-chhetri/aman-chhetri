@@ -28,6 +28,9 @@ my website: [click here!](https://amankshetri.com.np/)
 
 ---
 ### 🌐 Socials:
+If you'd like to chat💬or grab some coffee☕ with me, shoot me a DM on any of my socials!
+
+
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chhetryaman3@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amankshetri/) 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://amankshetri.com.np/)
@@ -36,61 +39,13 @@ my website: [click here!](https://amankshetri.com.np/)
 ---
 ### 💻 Tech Stack:
 
-#### ✍ Programming Languages:
-
-<a href="https://www.python.org"><img
-                    src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54"
-                    alt="Python" /></a>
-           <a href="https://www.java.com/en/"><img
-                    src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
-                    alt="Java" /></a>
-          <a href="https://www.w3schools.com/cpp/"><img
-                    src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white"
-                    alt="C++" /></a>
-          <a href="https://www.javascript.com/"><img
-                    src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E"
-                    alt="JavaScript" /></a>
-          <a href="https://www.css3.com/"><img
-                    src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white"
-                    alt="CSS3" /></a>
-           <a href="https://html5.org/"><img
-                    src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white"
-                    alt="HTML5" /></a>
-            <a href="https://www.cprogramming.com/"><img
-                    src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white"
-                    alt="C" /></a>
-
-#### Frameworks :
-
-<a href="https://react.dev/"><img
-                    src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
-                    alt="React" /></a>
-          <a href="https://getbootstrap.com/"><img
-                    src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-                    alt="Bootstrap" /></a>
-           <a href="https://nodejs.org/en"><img
-                    src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
-                    alt="Node.js" /></a>
-          <a href="https://expressjs.com/"><img
-                    src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
-                    alt="Express.js" /></a>
-          <a href="https://www.npmjs.com/"><img
-                    src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"
-                    alt="NPM" /></a>
-            <a href="https://www.djangoproject.com/"><img
-                    src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&amp;logo=django&amp;logoColor=white"
-                    alt="Django" /></a>
-            <a href="https://flask.palletsprojects.com/en/2.2.x/"><img
-                    src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&amp;logo=flask&amp;logoColor=white"
-                    alt="Flask" /></a>
-
 <table>
     <tr>
         <th>Category</th>
         <th>Technology</th>
     </tr>
     <tr>
-        <td>✍ Languages</td>
+        <td>✍ Programming Languages</td>
         <td>
           <a href="https://www.python.org"><img
                     src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54"
@@ -186,7 +141,7 @@ my website: [click here!](https://amankshetri.com.np/)
                     alt="TensorFlow" /></a>
         </td>
     </tr>
-  <tr>
+  <!-- <tr>
         <td>☁️ Hosting Platform</td>
         <td>
             <a href="https://pages.github.com/"><img
@@ -202,8 +157,8 @@ my website: [click here!](https://amankshetri.com.np/)
                     src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"
                     alt="Netlify" /></a>
         </td>
-    </tr>
-  <tr>
+    </tr> -->
+  <!-- <tr>
         <td>💻 IDEs/Editors</td>
         <td>
             <a href="https://code.visualstudio.com/"><img
@@ -219,8 +174,8 @@ my website: [click here!](https://amankshetri.com.np/)
                     src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"
                     alt="Jupyter Notebook" /></a>
         </td>
-    </tr>
-  <tr>
+    </tr> -->
+  <!-- <tr>
         <td>🎛️ Operating System</td>
         <td>
             <a href="https://www.microsoft.com/en-us/windows?r=1"><img
@@ -233,9 +188,9 @@ my website: [click here!](https://amankshetri.com.np/)
                     src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"
                     alt="Kali" /></a>
         </td>
-    </tr>
+    </tr> -->
   <tr>
-        <td>🥅 Other</td>
+        <td>🥅 Others</td>
         <td>
           <a href="https://git-scm.com/"><img
                     src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"
@@ -243,13 +198,6 @@ my website: [click here!](https://amankshetri.com.np/)
             <a href="https://www.arduino.cc/"><img
                     src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"
                     alt="Arduino" /></a>
-          <a href="https://www.notion.so/"><img
-                    src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"
-                    alt="Notion" /></a>
-            <a href="https://www.torproject.org/"><img
-                    src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white"
-                    alt="Tor" /></a>
-        </td>
     </tr>
 </table>
 
