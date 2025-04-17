@@ -18,7 +18,7 @@
 ---
 [![@aman_chhetri's Holopin Dashboard](https://holopin.me/aman_chhetri)](https://holopin.io/@aman_chhetri)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=iamamanchhetri&label=Profile%20views&color=0e75b6&style=flat" alt="iamamanchhetri" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=iamamanchhetri&label=Profile%20views&color=0e75b6&style=flat" alt="iamamanchhetri" /> </p> -->
 
 ## 💫 About Me:
 I’m currently working on ~
