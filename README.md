@@ -27,7 +27,7 @@ I’m currently working on ~
 
 
 ---
-### ⏳ Blogs:
+### ✍️ Blogs:
 * 🐋[DeepSeek-R1: Explained](https://amanchhetry.bearblog.dev/deepseek/)
 * 🤖[Transformers 101: Unveiling the Secret Behind the ‘T’ in ChatGPT](https://amanchhetry.bearblog.dev/ai_transformers/)
 * 📝[Attention is all you need Paper Implementation](https://amanchhetry.bearblog.dev/attentionpaper/)
