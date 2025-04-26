@@ -27,6 +27,15 @@ I’m currently working on ~
 
 
 ---
+### ⏳ Blogs:
+* 🐋[DeepSeek-R1: Explained](https://amanchhetry.bearblog.dev/deepseek/)
+* 🤖[Transformers 101: Unveiling the Secret Behind the ‘T’ in ChatGPT](https://amanchhetry.bearblog.dev/ai_transformers/)
+* 📝[Attention is all you need Paper Implementation](https://amanchhetry.bearblog.dev/attentionpaper/)
+* ✨[Generative AI: The Next Frontier in Artificial Intelligence](https://amanchhetry.bearblog.dev/generative-ai/)
+* 🎓[Four years in a nutshell – The CSE Chapter!](https://amanchhetry.bearblog.dev/btech4years/)
+
+
+---
 ### 🌐 Socials:
 If you'd like to chat💬or grab some coffee☕ with me, shoot me a DM on any of my socials!
 
