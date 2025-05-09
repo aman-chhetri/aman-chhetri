@@ -28,6 +28,7 @@ I’m currently working on ~
 
 ---
 ### ✍️ Blogs:
+* 🧑‍💻[How I Got Selected for the UIUC+ Summer Research Program 2025](https://amanchhetry.bearblog.dev/uiuc-internship/)
 * 🐋[DeepSeek-R1: Explained](https://amanchhetry.bearblog.dev/deepseek/)
 * 🤖[Transformers 101: Unveiling the Secret Behind the ‘T’ in ChatGPT](https://amanchhetry.bearblog.dev/ai_transformers/)
 * 📌[My highlighted points after reading Google's whitepaper on Prompt Engineering](https://x.com/iamamanchhetri/status/1920718929338466305)
