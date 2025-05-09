@@ -22,7 +22,7 @@
 ### ⏳ Status:
 I’m currently working on ~
 * 🌱 [ml papers](https://github.com/aman-chhetri/ml-papers) - trying to implement ml/dl papers in code!
-* 🌱 regularly grinding the topics in deep learning and nlp<br>
+* 🌱 regularly grinding the new concepts in deep learning and nlp<br>
 * 🌱 building some cool ML projects<br>
 
 
@@ -30,6 +30,7 @@ I’m currently working on ~
 ### ✍️ Blogs:
 * 🐋[DeepSeek-R1: Explained](https://amanchhetry.bearblog.dev/deepseek/)
 * 🤖[Transformers 101: Unveiling the Secret Behind the ‘T’ in ChatGPT](https://amanchhetry.bearblog.dev/ai_transformers/)
+* 📌[My highlighted points after reading Google's whitepaper on Prompt Engineering](https://x.com/iamamanchhetri/status/1920718929338466305)
 * 📝[Attention is all you need Paper Implementation](https://amanchhetry.bearblog.dev/attentionpaper/)
 * ✨[Generative AI: The Next Frontier in Artificial Intelligence](https://amanchhetry.bearblog.dev/generative-ai/)
 * 🎓[Four years in a nutshell – The CSE Chapter!](https://amanchhetry.bearblog.dev/btech4years/)
@@ -223,4 +224,4 @@ If you'd like to chat💬or grab some coffee☕ with me, shoot me a DM on any of
 [![](https://visitcount.itsvg.in/api?id=aman-chhetri&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 ---
-_README (last updated): April 29, 2025_
+_README (last updated): May 9, 2025_
