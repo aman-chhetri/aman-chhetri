@@ -30,6 +30,8 @@ I’m currently working on ~
 
 ---
 ### ✍️ Blogs:
+* 🧠[Sarvam-M: The Brain Behind India’s Multilingual AI](https://amanchhetry.bearblog.dev/sarvam-ai/)
+* ⚡[Building Large Language Models (LLMs): A Beginner’s Guide 101](https://amanchhetry.bearblog.dev/llms-101/)
 * 🧑‍💻[How I Got Selected for the UIUC+ Summer Research Program 2025](https://amanchhetry.bearblog.dev/uiuc-internship/)
 * 🐋[DeepSeek-R1: Explained](https://amanchhetry.bearblog.dev/deepseek/)
 * 🤖[Transformers 101: Unveiling the Secret Behind the ‘T’ in ChatGPT](https://amanchhetry.bearblog.dev/ai_transformers/)
@@ -227,4 +229,4 @@ If you'd like to chat💬or grab some coffee☕ with me, shoot me a DM on any of
 [![](https://visitcount.itsvg.in/api?id=aman-chhetri&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 ---
-_README (last updated): May 29, 2025_
+_README (last updated): June 7, 2025_
