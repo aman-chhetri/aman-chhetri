@@ -4,7 +4,7 @@
 
 <!--`Computer Science` @ AVV'25 🎓 | `Machine Learning` 🤖 | `Full Stack Developer` 💻 | `CTF Player` 🎮 -->
 
-`Computer Science` @ AVV'25 🎓 | `Research Intern @ UIUC` 🤖 | `Community Mentor @boltdotnew` ⚡| `AWS AI & ML Scholar '23` | `@buildspace (s5)` | `Full Stack Developer` 💻 
+`Computer Science` @ AVV'25 🎓 | `Research Intern @ UIUC` 🤖 | `AWS AI & ML Scholar '23` | `@buildspace (s5)` | `Full Stack Developer` 💻 
 
 
 * A passionate and enthusiastic guy who is constantly working on the field of Machine Learning, NLP and Web Development. I am mostly active within the AI/ML, Python, & Web Dev communities.
@@ -230,4 +230,4 @@ If you'd like to chat💬or grab some coffee☕ with me, shoot me a DM on any of
 [![](https://visitcount.itsvg.in/api?id=aman-chhetri&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 ---
-_README (last updated): June 21, 2025_
+_README (last updated): June 27, 2025_
