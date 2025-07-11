@@ -7,9 +7,9 @@
 `Computer Science` @ AVV'25 🎓 | `Research Intern @ UIUC` 🤖 | `AWS AI & ML Scholar '23` | `@buildspace (s5)` | `Full Stack Developer` 💻 
 
 
-* A passionate and enthusiastic guy who is constantly working on the field of Machine Learning, NLP and Web Development. I am mostly active within the AI/ML, Python, & Web Dev communities.
+* A recent Computer Science graduate 🎓, currently working in the fields of Machine Learning and Web Development.  I am mostly active within the AI/ML, Python, & Web Dev communities.
 
-* I also occasionally write blogs on AI, ML, and other tech stuffs. You can check them out here: [blogs!](https://amanchhetry.bearblog.dev/)
+* I also write blogs on AI, ML, and other tech stuff. You can check them out here: [blogs!](https://amanchhetry.bearblog.dev/)
 
 * My website: [portfolio!](https://amankshetri.com.np/)
 
@@ -230,4 +230,4 @@ If you'd like to chat💬or grab some coffee☕ with me, shoot me a DM on any of
 [![](https://visitcount.itsvg.in/api?id=aman-chhetri&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 ---
-_README (last updated): June 27, 2025_
+_README (last updated): July 11, 2025_
