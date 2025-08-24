@@ -30,6 +30,7 @@ I’m currently working on ~
 
 ---
 ### ✍️ Blogs:
+* ♟️[The Programming of a Chess Engine](https://amanchhetry.bearblog.dev/chess-engine/)
 * ⚙️[Software 3.0](https://amanchhetry.bearblog.dev/software3dot0/)
 * 🧠[Sarvam-M: The Brain Behind India’s Multilingual AI](https://amanchhetry.bearblog.dev/sarvam-ai/)
 * ⚡[Building Large Language Models (LLMs): A Beginner’s Guide 101](https://amanchhetry.bearblog.dev/llms-101/)
@@ -230,4 +231,4 @@ If you'd like to chat💬or grab some coffee☕ with me, shoot me a DM on any of
 [![](https://visitcount.itsvg.in/api?id=aman-chhetri&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 ---
-_README (last updated): July 11, 2025_
+_README (last updated): Aug 24, 2025_
