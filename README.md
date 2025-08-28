@@ -24,6 +24,7 @@
 ### ⏳ Status:
 I’m currently working on ~
 * 🌱 [ml papers](https://github.com/aman-chhetri/ml-papers) - trying to implement ml/dl papers in code!
+* 🌱 [ml algorithms from scratch](https://github.com/aman-chhetri/ml-algos-from-scratch/) - repository of ml algorithms implemented while I was learning ML
 * 🌱 regularly grinding the new concepts in deep learning and nlp<br>
 * 🌱 building some cool ML projects<br>
 
@@ -231,4 +232,4 @@ If you'd like to chat💬or grab some coffee☕ with me, shoot me a DM on any of
 [![](https://visitcount.itsvg.in/api?id=aman-chhetri&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 ---
-_README (last updated): Aug 24, 2025_
+_README (last updated): Aug 28, 2025_
