@@ -221,9 +221,9 @@ If you'd like to chat💬or grab some coffee☕ with me, shoot me a DM on any of
 
 ---
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aman-chhetri&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=aman-chhetri&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-chhetri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=aman-chhetri&theme=catppuccin_mocha&show_icons=true&hide_border=false&include_all_commits=false&count_private=false) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=aman-chhetri&theme=catppuccin_mocha&show_icons=true&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-chhetri&theme=catppuccin_mocha&show_icons=true&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- ### ✍️ Random Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
