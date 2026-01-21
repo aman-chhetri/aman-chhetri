@@ -24,7 +24,7 @@
 ### ⏳ Status:
 I’m currently working on ~
 * 🌱 [ml papers](https://github.com/aman-chhetri/ml-papers) - trying to implement ml/dl papers in code!
-* 🌱 [ml algorithms from scratch](https://github.com/aman-chhetri/ml-algos-from-scratch/) - repository of ml algorithms implemented while I was learning ML
+* 🌱 [ml algorithms from scratch](https://github.com/aman-chhetri/ml-algos-from-scratch/) (private🔒) - repository of ml algorithms implemented while I was learning ML
 * 🌱 regularly grinding the new concepts in deep learning and nlp<br>
 * 🌱 building some cool ML projects<br>
 
