@@ -31,6 +31,7 @@ I’m currently working on ~
 
 ---
 ### ✍️ Blogs:
+* 🕵️[Reward Hacking in RL : Explained](https://amanchhetry.bearblog.dev/reward-hacking/)
 * ♟️[The Programming of a Chess Engine](https://amanchhetry.bearblog.dev/chess-engine/)
 * ⚙️[Software 3.0](https://amanchhetry.bearblog.dev/software3dot0/)
 * 🧠[Sarvam-M: The Brain Behind India’s Multilingual AI](https://amanchhetry.bearblog.dev/sarvam-ai/)
