@@ -1,6 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Aman!</h1>
-<!-- <h3 align="center">Computer Science @AVV'25 🎓 | Machine Learning 🤖 | Full Stack Dev 💻 | CTF Player 🎮</h3> -->
+<h2 align="center">Aman Kshetri 🧑‍💻</h2>
 
 `Computer Science` @ AVV'25 🎓 | `Research Intern @ UIUC` 🤖 | `AWS AI & ML Scholar '23` | `@buildspace (s5)` | `Full Stack Developer` 💻 
 
@@ -11,12 +9,9 @@
 
 * My website: [portfolio!](https://amankshetri.com.np/)
 
-<!-- * Former Mentor of Cognizance Amrita (tech club): Guided 100+ students at Cognizance, hosted CTF competitions, and organized numerous events while monitoring the Cyber Security Domain for a year. -->
+![my README cover img](https://res.cloudinary.com/dqbj2zfme/image/upload/v1742733423/personal/accelerate_dmxcb3.jpg)
 
----
-[![@aman_chhetri's Holopin Dashboard](https://holopin.me/aman_chhetri)](https://holopin.io/@aman_chhetri)
 
----
 ### ⏳ Status:
 I’m currently working on ~
 * 🌱 [ml papers](https://github.com/aman-chhetri/ml-papers) - trying to implement ml/dl papers in code!
@@ -32,137 +27,33 @@ I’m currently working on ~
 * ⚙️[Software 3.0](https://amanchhetry.bearblog.dev/software3dot0/)
 * 🧠[Sarvam-M: The Brain Behind India’s Multilingual AI](https://amanchhetry.bearblog.dev/sarvam-ai/)
 * ⚡[Building Large Language Models (LLMs): A Beginner’s Guide 101](https://amanchhetry.bearblog.dev/llms-101/)
-* 🧑‍💻[How I Got Selected for the UIUC+ Summer Research Program 2025](https://amanchhetry.bearblog.dev/uiuc-internship/)
 * 🐋[DeepSeek-R1: Explained](https://amanchhetry.bearblog.dev/deepseek/)
 * 🤖[Transformers 101: Unveiling the Secret Behind the ‘T’ in ChatGPT](https://amanchhetry.bearblog.dev/ai_transformers/)
-* 📌[My highlighted points after reading Google's whitepaper on Prompt Engineering](https://x.com/iamamanchhetri/status/1920718929338466305)
-* 📝[Attention is all you need Paper Implementation](https://amanchhetry.bearblog.dev/attentionpaper/)
-* ✨[Generative AI: The Next Frontier in Artificial Intelligence](https://amanchhetry.bearblog.dev/generative-ai/)
-* 🎓[Four years in a nutshell – The CSE Chapter!](https://amanchhetry.bearblog.dev/btech4years/)
-
+* and more blogs here: 👉 [view](https://amanchhetry.bearblog.dev/blog/)
 
 ---
 ### 🌐 Socials:
 If you'd like to chat💬or grab some coffee☕ with me, shoot me a DM on any of my socials!
 
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chhetryaman3@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amankshetri/) 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://amankshetri.com.np/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/amanxtwts) 
+* 📩 Mail          → [chhetryaman3@gmail.com](mailto:chhetryaman3@gmail.com)
+* 🖇️ LinkedIn      → [linkedin.com/inamankshetri](https://www.linkedin.com/in/amankshetri/)
+* 🔥 Portfolio     → [amankshetri.com.np](https://amankshetri.com.np/)
+* 🐦 X(twitter)    → [@amanxtwts](https://x.com/amanxtwts)
 
 ---
 ### 💻 Tech Stack:
 
-<table>
-    <tr>
-        <th>Category</th>
-        <th>Technology</th>
-    </tr>
-    <tr>
-        <td>✍ Programming Languages</td>
-        <td>
-          <a href="https://www.python.org"><img
-                    src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54"
-                    alt="Python" /></a>
-           <a href="https://www.java.com/en/"><img
-                    src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
-                    alt="Java" /></a>
-          <a href="https://www.w3schools.com/cpp/"><img
-                    src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white"
-                    alt="C++" /></a>
-          <a href="https://www.javascript.com/"><img
-                    src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E"
-                    alt="JavaScript" /></a>
-          <a href="https://www.css3.com/"><img
-                    src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white"
-                    alt="CSS3" /></a>
-           <a href="https://html5.org/"><img
-                    src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white"
-                    alt="HTML5" /></a>
-            <a href="https://www.cprogramming.com/"><img
-                    src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white"
-                    alt="C" /></a>
-        </td>
-    </tr>
-    <tr>
-        <td>📚 Frameworks & Libraries</td>
-        <td>
-          <a href="https://react.dev/"><img
-                    src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
-                    alt="React" /></a>
-          <a href="https://getbootstrap.com/"><img
-                    src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-                    alt="Bootstrap" /></a>
-           <a href="https://nodejs.org/en"><img
-                    src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
-                    alt="Node.js" /></a>
-          <a href="https://expressjs.com/"><img
-                    src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
-                    alt="Express.js" /></a>
-          <a href="https://www.npmjs.com/"><img
-                    src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"
-                    alt="NPM" /></a>
-            <a href="https://www.djangoproject.com/"><img
-                    src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&amp;logo=django&amp;logoColor=white"
-                    alt="Django" /></a>
-            <a href="https://flask.palletsprojects.com/en/2.2.x/"><img
-                    src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&amp;logo=flask&amp;logoColor=white"
-                    alt="Flask" /></a>
-        </td>
-    </tr>
-    <tr>
-        <td>☁️ Databases</td>
-        <td>
-            <a href="https://www.mysql.com/"><img
-                    src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"
-                    alt="MySQL" /></a>
-          <a href="https://www.mongodb.com/"><img
-                    src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-                    alt="MongoDB" /></a>
-        </td>
-    </tr>
-    <tr>
-        <td>🎨 Design</td>
-        <td>
-          <a href="https://www.adobe.com/"><img
-                    src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"
-                    alt="Adobe" /></a>
-            <a href="https://www.adobe.com/products/photoshop.html"><img
-                    src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&amp;logo=adobephotoshop&amp;logoColor=white"
-                    alt="Adobe Photoshop" /></a>
-            <a href="https://www.figma.com/"><img
-                    src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white"
-                    alt="Figma" /></a>
-            <a href="https://www.canva.com/"><img
-                    src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;logo=Canva&amp;logoColor=white"
-                    alt="Canva" /></a>
-        </td>
-    </tr>
-    <tr>
-        <td>🤖 ML/DL</td>
-        <td>
-            <a href="https://pandas.pydata.org/"><img
-                    src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white"
-                    alt="Pandas" /></a>
-           <a href="https://scikit-learn.org/stable/"><img
-                    src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"
-                    alt="Scikit-Learn" /></a>
-            <a href="https://numpy.org/"><img
-                    src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white"
-                    alt="NumPy" /></a>         
-          <a href="https://www.tensorflow.org/"><img
-                    src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"
-                    alt="TensorFlow" /></a>
+* 🤖 AI-ML: `PyTorch`, `Numpy`, `Pandas`, `TensorFlow`, `Scikit-Learn`
+* ⚙️ Frontend: `React`, `JavaScript`, `TypeScript`, `HTML`, `CSS`
+* 🛠️Backend: `Node.js`, `Express.js`
+* ☁️ Databases: `MySQL`, `MongoDB`, `Firebase`, `Supabase`, `Cloudinary`
+* 🎨 Design:   `Figma`, `Canva`, `Adobe`
+* 📒 Languages(programming): `Python`, `C++`, `C`, `Java`
+* ⚡ DevOps: `Git`, `Linux`
 
-  <tr>
-        <td>⚡ Others</td>
-        <td>
-          <a href="https://git-scm.com/"><img
-                    src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"
-                    alt="Git" /></a>
-            <a href="https://www.arduino.cc/"><img
-                    src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"
-                    alt="Arduino" /></a>
-    </tr>
-</table>
+---
+Thanks for stopping by! :)
+
+Feel free to say hi, share ideas, or just grab a virtual coffee ☕︎
+
+Let's build something cool together <3
