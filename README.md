@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Aman!</h1>
 <!-- <h3 align="center">Computer Science @AVV'25 🎓 | Machine Learning 🤖 | Full Stack Dev 💻 | CTF Player 🎮</h3> -->
 
-<!--`Computer Science` @ AVV'25 🎓 | `Machine Learning` 🤖 | `Full Stack Developer` 💻 | `CTF Player` 🎮 -->
-
 `Computer Science` @ AVV'25 🎓 | `Research Intern @ UIUC` 🤖 | `AWS AI & ML Scholar '23` | `@buildspace (s5)` | `Full Stack Developer` 💻 
 
 
@@ -17,8 +15,6 @@
 
 ---
 [![@aman_chhetri's Holopin Dashboard](https://holopin.me/aman_chhetri)](https://holopin.io/@aman_chhetri)
-
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=iamamanchhetri&label=Profile%20views&color=0e75b6&style=flat" alt="iamamanchhetri" /> </p> -->
 
 ---
 ### ⏳ Status:
@@ -158,56 +154,7 @@ If you'd like to chat💬or grab some coffee☕ with me, shoot me a DM on any of
           <a href="https://www.tensorflow.org/"><img
                     src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"
                     alt="TensorFlow" /></a>
-        </td>
-    </tr>
-  <!-- <tr>
-        <td>☁️ Hosting Platform</td>
-        <td>
-            <a href="https://pages.github.com/"><img
-                    src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"
-                    alt="Github Pages" /></a>
-            <a href="https://vercel.com/"><img
-                    src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"
-                    alt="Vercel" /></a>
-          <a href="https://www.cloudflare.com/"><img
-                    src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"
-                    alt="Cloud Flare" /></a>
-          <a href="https://www.netlify.com/"><img
-                    src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"
-                    alt="Netlify" /></a>
-        </td>
-    </tr> -->
-  <!-- <tr>
-        <td>💻 IDEs/Editors</td>
-        <td>
-            <a href="https://code.visualstudio.com/"><img
-                    src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
-                    alt="Visual Studio Code" /></a>
-            <a href="https://replit.com/"><img
-                    src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"
-                    alt="Replit" /></a>
-           <a href="https://codepen.io/"><img
-                    src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"
-                    alt="CodePen" /></a>
-          <a href="https://jupyter.org/"><img
-                    src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"
-                    alt="Jupyter Notebook" /></a>
-        </td>
-    </tr> -->
-  <!-- <tr>
-        <td>🎛️ Operating System</td>
-        <td>
-            <a href="https://www.microsoft.com/en-us/windows?r=1"><img
-                    src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
-                    alt="Windows" /></a>
-          <a href="https://ubuntu.com/"><img
-                    src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
-                    alt="Ubuntu" /></a>
-            <a href="https://www.kali.org/"><img
-                    src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"
-                    alt="Kali" /></a>
-        </td>
-    </tr> -->
+
   <tr>
         <td>⚡ Others</td>
         <td>
@@ -219,18 +166,3 @@ If you'd like to chat💬or grab some coffee☕ with me, shoot me a DM on any of
                     alt="Arduino" /></a>
     </tr>
 </table>
-
----
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aman-chhetri&theme=catppuccin_mocha&show_icons=true&hide_border=false&include_all_commits=false&count_private=false) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=aman-chhetri&theme=catppuccin_mocha&show_icons=true&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-chhetri&theme=catppuccin_mocha&show_icons=true&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- ### ✍️ Random Dev Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=aman-chhetri&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
----
-_README (last updated): Aug 28, 2025_
