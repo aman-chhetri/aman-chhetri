@@ -5,9 +5,9 @@
 
 * A recent Computer Science graduate 🎓, currently working in the fields of Machine Learning and Web Development.  I am mostly active within the AI/ML, Python, & Web Dev communities.
 
-* I also write blogs on AI, ML, and other tech stuff. You can check them out here: [blogs!](https://amanchhetry.bearblog.dev/)
+* I also write blogs on AI, ML, and other tech stuff. You can check them out here: [blogs!](https://amanchhetry.bearblog.dev/) 🌱
 
-* My website: [portfolio!](https://amankshetri.com.np/)
+* My website: [portfolio!](https://amankshetri.com.np/) ⚡
 
 ![my README cover img](https://res.cloudinary.com/dqbj2zfme/image/upload/v1742733423/personal/accelerate_dmxcb3.jpg)
 
@@ -16,8 +16,8 @@
 I’m currently working on ~
 * 🌱 [ml papers](https://github.com/aman-chhetri/ml-papers) - trying to implement ml/dl papers in code!
 * 🌱 [ml algorithms from scratch](https://github.com/aman-chhetri/ml-algos-from-scratch/) (private🔒) - repository of ml algorithms implemented while I was learning ML
-* 🌱 regularly grinding the new concepts in deep learning and nlp<br>
-* 🌱 building some cool ML projects<br>
+* ~ regularly grinding the new concepts in deep learning and nlp<br>
+* ~ building some cool ML projects<br>
 
 
 ---
@@ -36,24 +36,25 @@ I’m currently working on ~
 If you'd like to chat💬or grab some coffee☕ with me, shoot me a DM on any of my socials!
 
 * 📩 Mail          → [chhetryaman3@gmail.com](mailto:chhetryaman3@gmail.com)
-* 🖇️ LinkedIn      → [linkedin.com/inamankshetri](https://www.linkedin.com/in/amankshetri/)
+* 🖇️ LinkedIn      → [linkedin.com/in/amankshetri](https://www.linkedin.com/in/amankshetri/)
 * 🔥 Portfolio     → [amankshetri.com.np](https://amankshetri.com.np/)
 * 🐦 X(twitter)    → [@amanxtwts](https://x.com/amanxtwts)
 
 ---
-### 💻 Tech Stack:
+### 💻 Skills & Tools:
 
 * 🤖 AI-ML: `PyTorch`, `Numpy`, `Pandas`, `TensorFlow`, `Scikit-Learn`
-* ⚙️ Frontend: `React`, `JavaScript`, `TypeScript`, `HTML`, `CSS`
-* 🛠️Backend: `Node.js`, `Express.js`
+* ⚙️ Frontend: `React`, `TypeScript`, `JavaScript`, `Tailwind CSS`, `HTML`, `CSS`
+* 🛠️ Backend: `Node.js`, `Express.js`
 * ☁️ Databases: `MySQL`, `MongoDB`, `Firebase`, `Supabase`, `Cloudinary`
 * 🎨 Design:   `Figma`, `Canva`, `Adobe`
-* 📒 Languages(programming): `Python`, `C++`, `C`, `Java`
+* 📒 Languages: `Python`, `C++`, `C`, `Java`
+* 📊 Data: `Power BI`, `Tableau`
 * ⚡ DevOps: `Git`, `Linux`
 
 ---
 Thanks for stopping by! :)
 
-Feel free to say hi, share ideas, or just grab a virtual coffee ☕︎
+Feel free to say hi, share ideas, or just grab a virtual coffee 🍵
 
 Let's build something cool together <3
