@@ -1,60 +1,71 @@
-<h2 align="center">Aman Kshetri 🧑‍💻</h2>
+##  Hi, I’m Aman 👋
 
-`Computer Science` @ AVV'25 🎓 | `Research Intern @ UIUC` 🤖 | `AWS AI & ML Scholar '23` | `@buildspace (s5)` | `Full Stack Developer` 💻 
+🎓 CS Graduate | 🧑‍💻 Research Intern @ [UIUC](https://illinois.edu/) | 🤖 AI-ML + Full-Stack Developer
+
+<p>
+  <img 
+    src="https://res.cloudinary.com/dqbj2zfme/image/upload/v1774252048/personal/accelerate-round_bizujf.png" 
+    width="900"/>
+</p>
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+> 💼 open to AI/ML, full-stack, research, and collaboration opportunities
+
+## my expertise
+
+- 🤖 building & deploying ML models (NLP, deep learning)
+- 🧩 designing full-stack applications
+- ⚡ turning ideas into production-ready AI products
+- 📄 implementing ML papers into code → [repo](https://github.com/aman-chhetri/ml-papers)
+
+Check out my work & writings → 🔗 [amankshetri.com.np](https://amankshetri.com.np) | 📝 [amanchhetry.bearblog.dev](https://amanchhetry.bearblog.dev/)
+
+## featured projects
+
+- 🗣️ [WisprBook](https://github.com/aman-chhetri/WisprBook) → interactive AI companion for any book; voice chat and instant summaries
+- 📄 [TLDR.ai](https://github.com/aman-chhetri/TLDR.ai) → summarize articles, papers, and documents in seconds
+- 🎨 [NeuraCanvas](https://github.com/aman-chhetri/NeuraCanvas) → transform photos into unique AI-generated art
+- 🎬 [Movix](https://github.com/aman-chhetri/movix-app) → explore movies with trailers, ratings, and smart recommendations 
+- 🧑‍⚕️ [Medicare](https://github.com/aman-chhetri/MediCare) → ML system providing healthcare insights from patient data
+- 🔒 [DropVault](https://github.com/aman-chhetri/DropVault) → secure, private file storage with encrypted access  
+- ♟️ [DeepSquare](https://github.com/aman-chhetri/DeepSquare) → intelligent chess engine with multiple AI strategies and interactive gameplay 
+
+→ more projects: [view here](https://github.com/aman-chhetri?tab=repositories)
 
 
-* A recent Computer Science graduate 🎓, currently working in the fields of Machine Learning and Web Development.  I am mostly active within the AI/ML, Python, & Web Dev communities.
+## writings
+✍️ I write about AI, ML, and software → simplifying complex ideas
+- [Reward Hacking in RL](https://amanchhetry.bearblog.dev/reward-hacking/)  
+- [Programming of a Chess Engine](https://amanchhetry.bearblog.dev/chess-engine/)  
+- [Software 3.0](https://amanchhetry.bearblog.dev/software3dot0/)  
+- [Sarvam-M: The Brain Behind India’s Multilingual AI](https://amanchhetry.bearblog.dev/sarvam-ai/)
+- [Transformers 101: Unveiling the Secret Behind the ‘T’ in ChatGPT](https://amanchhetry.bearblog.dev/ai_transformers/)  
+- [Building LLMs: A Beginner's Guide](https://amanchhetry.bearblog.dev/llms-101/)
 
-* I also write blogs on AI, ML, and other tech stuff. You can check them out here: [blogs!](https://amanchhetry.bearblog.dev/) 🌱
+→ more blogs: [view here](https://amanchhetry.bearblog.dev/blog/)
 
-* My website: [portfolio!](https://amankshetri.com.np/) ⚡
+## connect
 
-![my README cover img](https://res.cloudinary.com/dqbj2zfme/image/upload/v1742733423/personal/accelerate_dmxcb3.jpg)
+if you'd like to chat💬or grab some coffee🍵 with me, shoot me a DM on any of my socials!
 
-
-### ⏳ Status:
-I’m currently working on ~
-* 🌱 [ml papers](https://github.com/aman-chhetri/ml-papers) - trying to implement ml/dl papers in code!
-* 🌱 [ml algorithms from scratch](https://github.com/aman-chhetri/ml-algos-from-scratch/) (private🔒) - repository of ml algorithms implemented while I was learning ML
-* ~ regularly grinding the new concepts in deep learning and nlp<br>
-* ~ building some cool ML projects<br>
-
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://amankshetri.com.np)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chhetryaman3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amankshetri)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/amanxtwts)
 
 ---
-### ✍️ Blogs:
-* 🕵️[Reward Hacking in RL : Explained](https://amanchhetry.bearblog.dev/reward-hacking/)
-* ♟️[The Programming of a Chess Engine](https://amanchhetry.bearblog.dev/chess-engine/)
-* ⚙️[Software 3.0](https://amanchhetry.bearblog.dev/software3dot0/)
-* 🧠[Sarvam-M: The Brain Behind India’s Multilingual AI](https://amanchhetry.bearblog.dev/sarvam-ai/)
-* ⚡[Building Large Language Models (LLMs): A Beginner’s Guide 101](https://amanchhetry.bearblog.dev/llms-101/)
-* 🐋[DeepSeek-R1: Explained](https://amanchhetry.bearblog.dev/deepseek/)
-* 🤖[Transformers 101: Unveiling the Secret Behind the ‘T’ in ChatGPT](https://amanchhetry.bearblog.dev/ai_transformers/)
-* and more blogs here: 👉 [view](https://amanchhetry.bearblog.dev/blog/)
-
----
-### 🌐 Socials:
-If you'd like to chat💬or grab some coffee☕ with me, shoot me a DM on any of my socials!
-
-* 📩 Mail          → [chhetryaman3@gmail.com](mailto:chhetryaman3@gmail.com)
-* 🖇️ LinkedIn      → [linkedin.com/in/amankshetri](https://www.linkedin.com/in/amankshetri/)
-* 🔥 Portfolio     → [amankshetri.com.np](https://amankshetri.com.np/)
-* 🐦 X(twitter)    → [@amanxtwts](https://x.com/amanxtwts)
-
----
-### 💻 Skills & Tools:
-
-* 🤖 AI-ML: `PyTorch`, `Numpy`, `Pandas`, `TensorFlow`, `Scikit-Learn`
-* ⚙️ Frontend: `React`, `TypeScript`, `JavaScript`, `Tailwind CSS`, `HTML`, `CSS`
-* 🛠️ Backend: `Node.js`, `Express.js`
-* ☁️ Databases: `MySQL`, `MongoDB`, `Firebase`, `Supabase`, `Cloudinary`
-* 🎨 Design:   `Figma`, `Canva`, `Adobe`
-* 📒 Languages: `Python`, `C++`, `C`, `Java`
-* 📊 Data: `Power BI`, `Tableau`
-* ⚡ DevOps: `Git`, `Linux`
-
----
-Thanks for stopping by! :)
-
-Feel free to say hi, share ideas, or just grab a virtual coffee 🍵
-
-Let's build something cool together <3
+<p align="center">
+  <b><i>building things. learning fast. staying curious. 🌱</i></b>
+</p>
