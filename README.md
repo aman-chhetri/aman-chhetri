@@ -1,6 +1,6 @@
 ##  Hi, I’m Aman 👋
 
-🎓 **CS Graduate** | 🧑‍💻 **Research Intern** @ [UIUC](https://illinois.edu/) | 🤖 **AI-ML + Full-Stack Developer**
+🎓 **CS Graduate '25** | 🤖 **AI-ML + Full Stack Developer** | 🧑‍💻 **AWS Scholar '23**
 
 <p>
   <img 
