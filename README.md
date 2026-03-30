@@ -1,12 +1,19 @@
-##  Hi, I’m Aman 👋
+```
 
-🎓 **CS Graduate '25** | 🤖 **AI-ML + Full Stack Developer** | 🧑‍💻 **AWS Scholar '23**
+ █████╗ ███╗   ███╗ █████╗ ███╗   ██╗ | hey! welcome to my gh profile 🌱
+██╔══██╗████╗ ████║██╔══██╗████╗  ██║ | about me: cs graduate '25 • AI/ML + fullstack dev • aws scholar '23
+███████║██╔████╔██║███████║██╔██╗ ██║ | portfolio: amankshetri.com.np
+██╔══██║██║╚██╔╝██║██╔══██║██║╚██╗██║ | currently: building AI apps • exploring LLMs • contributing to OSS
+██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║ | socials: @amanxtwts on x
+╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ | likes: coding, traveling, music, gaming, football
+                                      
+```
 
-<p>
+<!-- <p>
   <img 
     src="https://res.cloudinary.com/dqbj2zfme/image/upload/v1774252048/personal/accelerate-round_bizujf.png" 
     width="900"/>
-</p>
+</p> -->
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -17,7 +24,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
 <!--![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)-->
@@ -66,7 +73,12 @@ if you'd like to chat💬or grab some coffee🍵 with me, shoot me a DM on any o
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amankshetri)
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/amanxtwts)
 
----
-<p align="center">
-  <b><i>building things. learning fast. staying curious. 🌱</i></b>
+<p>
+  <img 
+    src="https://res.cloudinary.com/dqbj2zfme/image/upload/v1774252048/personal/accelerate-round_bizujf.png" 
+    width="500"/>
+</p>
+
+<p>
+  <i>building things. learning fast. staying curious. 🌱</i>
 </p>
